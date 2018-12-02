@@ -1,0 +1,10 @@
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\bin\Debug\netcoreapp2.0\ClientSP.deps.json
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\bin\Debug\netcoreapp2.0\ClientSP.runtimeconfig.json
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\bin\Debug\netcoreapp2.0\ClientSP.runtimeconfig.dev.json
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\bin\Debug\netcoreapp2.0\ClientSP.dll
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\bin\Debug\netcoreapp2.0\ClientSP.pdb
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\obj\Debug\netcoreapp2.0\ClientSP.csproj.CoreCompileInputs.cache
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\obj\Debug\netcoreapp2.0\ClientSP.AssemblyInfoInputs.cache
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\obj\Debug\netcoreapp2.0\ClientSP.AssemblyInfo.cs
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\obj\Debug\netcoreapp2.0\ClientSP.dll
+c:\Users\kraj4\OneDrive\documents\visual studio 2017\Projects\ServerSP\ClientSP\obj\Debug\netcoreapp2.0\ClientSP.pdb

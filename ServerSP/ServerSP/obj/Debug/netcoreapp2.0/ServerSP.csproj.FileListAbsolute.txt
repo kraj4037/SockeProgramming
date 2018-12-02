@@ -1,0 +1,11 @@
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\bin\Debug\netcoreapp2.0\ServerSP.deps.json
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\bin\Debug\netcoreapp2.0\ServerSP.runtimeconfig.json
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\bin\Debug\netcoreapp2.0\ServerSP.runtimeconfig.dev.json
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\bin\Debug\netcoreapp2.0\ServerSP.dll
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\bin\Debug\netcoreapp2.0\ServerSP.pdb
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\obj\Debug\netcoreapp2.0\ServerSP.csprojResolveAssemblyReference.cache
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\obj\Debug\netcoreapp2.0\ServerSP.csproj.CoreCompileInputs.cache
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\obj\Debug\netcoreapp2.0\ServerSP.AssemblyInfoInputs.cache
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\obj\Debug\netcoreapp2.0\ServerSP.AssemblyInfo.cs
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\obj\Debug\netcoreapp2.0\ServerSP.dll
+c:\users\kraj4\onedrive\documents\visual studio 2017\Projects\ServerSP\ServerSP\obj\Debug\netcoreapp2.0\ServerSP.pdb
